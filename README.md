@@ -162,23 +162,23 @@ or run the `NoteAppApplication` class from your IDE.
 
 ### Create Note
 
-*Coming Soon*
+![Create Note](images/create-note.png)
 
 ### Retrieve All Notes
 
-*Coming Soon*
+![Retrieve All Notes](images/get-all-notes.png)
 
 ### Search Notes
 
-*Coming Soon*
+![Search Notes](images/search-notes.png)
 
-### Pagination
+### Pagination & Sorting
 
-*Coming Soon*
+![Pagination](images/pagination.png)
 
 ### Validation Error
 
-*Coming Soon*
+![Validation Error](images/validation.png)
 
 ## Author
 
