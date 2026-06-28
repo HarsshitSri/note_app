@@ -168,13 +168,10 @@ or run the `NoteAppApplication` class from your IDE.
 
 ![Retrieve All Notes](images/get-all-notes.png)
 
-### Search Notes
-
-![Search Notes](images/search-notes.png)
 
 ### Pagination & Sorting
 
-![Pagination](images/pagination.png)
+![Pagination](images/pagination-and-sorting.png)
 
 ### Validation Error
 
